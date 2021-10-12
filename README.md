@@ -1,9 +1,13 @@
-#DEMO
+# DEMO
 
 just creating a file............
 
 nothing else..........
 
-##subheader
+## subheader
 
 yedhuku....
+
+## local developement
+
+1. Open index.html in your browser
